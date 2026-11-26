@@ -21,10 +21,13 @@ The following steps will guide you through the process of committing a change on
 
 3. In the **Name your file...** field, enter `PROFILE.md`.
 
-4. In the **Enter file contents here** area, copy the following content to your file:
+4. In the **Enter file contents here** area, add the following Markdown. You can replace the example with your own introduction, but don't include private information or secrets.
 
-   ```
-   Welcome to my GitHub profile!
+   ```markdown
+   # Welcome to my GitHub profile!
+
+   - I'm learning how to use GitHub.
+   - I'd like to build an application.
    ```
 
    ![screenshot for adding the profile.md file](../images/add-profile-file.png)

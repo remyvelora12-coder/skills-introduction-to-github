@@ -4,12 +4,15 @@ _Welcome to "Introduction to GitHub"! :wave:_
 
 **What is GitHub?**: GitHub is a collaboration platform that uses _[Git](https://docs.github.com/get-started/quickstart/github-glossary#git)_ for versioning.
 GitHub is a popular place to share and contribute to [open-source](https://docs.github.com/get-started/quickstart/github-glossary#open-source) software.
+Git tracks changes to files; GitHub hosts repositories and provides tools for working with others.
 
 :tv: [Video: What is GitHub?](https://www.youtube.com/watch?v=pBy1zgt0XPc)
 
 **What is a repository?**: A _[repository](https://docs.github.com/get-started/quickstart/github-glossary#repository)_ is a project containing files and folders.
 A repository tracks versions of files and folders. For more information, see
 "[About repositories](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)" from GitHub Docs.
+The **Code** tab shows the project files, **Issues** tracks ideas and tasks, and **Pull requests** is where proposed changes can be discussed.
+This exercise uses an issue to deliver your instructions and feedback.
 
 **What is a branch?**: A _[branch](https://docs.github.com/en/get-started/quickstart/github-glossary#branch)_ is a parallel version of your repository.
 By default, your repository has one branch named `main` and it is considered to be the definitive branch.

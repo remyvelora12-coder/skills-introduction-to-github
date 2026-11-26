@@ -33,7 +33,9 @@ To create a pull request automatically, click **Compare & pull request** button,
 
 7. Click **Create pull request**.
 
-8. Now that you've started a place to collaborate, Mona should already be busy checking your work. Give her a moment and keep watch in the comments. You will see her respond with progress info and the next lesson.
+8. Open the **Files changed** tab and review your new file. In a real project, collaborators can use the pull request conversation and review comments to ask questions or suggest changes. Check the **Conversation** tab for any automated checks or feedback.
+
+9. Now that you've started a place to collaborate, Mona should already be busy checking your work. Give her a moment and keep watch in the exercise issue comments. You will see her respond with progress info and the next lesson.
 
 
 <details>

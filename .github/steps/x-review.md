@@ -11,6 +11,8 @@ Here's a recap of your accomplishments:
 - You merged a pull request.
 - You made your first contribution! :tada:
 
+Before moving on, consider: Why make changes on a branch instead of directly on `main`? What does a commit record? Where can a teammate review and discuss your proposed changes?
+
 ### What's next?
 
 If you'd like to make a profile README, use the quickstart instructions below or follow the instructions in the [Managing your profile README](https://docs.github.com/account-and-profile/setting-up-and-managing-your-github-profile/customizing-your-profile/managing-your-profile-readme) article.
@@ -23,6 +25,9 @@ If you'd like to make a profile README, use the quickstart instructions below or
 
 Check out these resources to learn more or get involved:
 
+- Practice formatting project documentation with [Communicating using Markdown](https://github.com/skills/communicate-using-markdown).
+- Learn the local Git workflow with [Set up Git](https://docs.github.com/en/get-started/git-basics/set-up-git), then try cloning a repository and making a change locally.
+- When you start an application, use an issue to plan a small feature, work on a branch, and review and test the change in a pull request before merging it.
 - Are you a student? Check out the [Student Developer Pack](https://education.github.com/pack).
 - [Take another GitHub Skills exercise](https://learn.github.com/skills).
 - [Read the GitHub Getting Started docs](https://docs.github.com/en/get-started).

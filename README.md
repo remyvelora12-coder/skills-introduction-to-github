@@ -25,6 +25,8 @@ Simply copy the exercise to your account, then give your favorite Octocat (Mona)
 
 [![](https://img.shields.io/badge/Copy%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/new?template_owner=skills&template_name=introduction-to-github&owner=%40me&name=skills-introduction-to-github&description=Exercise:+Introduction+to+GitHub&visibility=public)
 
+Open the exercise issue in your new repository's **Issues** tab and follow the lessons in its comments. Complete each activity before moving on to the next one.
+
 <details>
 <summary>Having trouble? 🤷</summary><br/>
 
@@ -33,6 +35,7 @@ When copying the exercise, we recommend the following settings:
 - For owner, choose your personal account or an organization to host the repository.
 
 - We recommend creating a public repository, since private repositories will use Actions minutes.
+  Public repositories can be seen by anyone, so don't add passwords, access tokens, or other sensitive information.
 
 If the exercise isn't ready in 20 seconds, please check the [Actions](../../actions) tab.
 
